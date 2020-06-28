@@ -1,5 +1,7 @@
 # 02 | 事件循环：Flutter 中代码是如何执行和运行的
 
+https://github.com/qing-song/Flutter/blob/master/images/flutter_02_event.png
+
 ## Dart 单线程
 
 单线程在流畅性方面有一定安全保障，这点在 JavaScript 中存在类似的机制原理，其核心是分为主线程、微任务和宏任务。主线程执行主业务逻辑，网络 I/O 、本地文件 I/O 、异步事件等相关任务事件，应用事件驱动方式来执行。在 Dart 中同样是单线程执行，其次也包含了两个事件队列，一个是微任务事件队列，一个是事件队列。
