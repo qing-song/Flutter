@@ -1,6 +1,6 @@
 # 02 | 事件循环：Flutter 中代码是如何执行和运行的
 
-https://github.com/qing-song/Flutter/blob/master/images/flutter_02_event.png
+[运行图](https://github.com/qing-song/Flutter/blob/master/images/flutter_02_event.png)
 
 ## Dart 单线程
 
